@@ -1,0 +1,38 @@
+body{
+   
+}
+    .header{
+        background-color: lightgray;
+        width: 100%; 
+        height: 10vh;
+    }
+
+    .textbox{
+        background-color: white;        ;
+        width: 100%; 
+        height: 30vh;
+    }
+
+    .box1{
+        background-color: #5b8fdc;
+        width: 100%; 
+        height: 20vh;
+    }
+
+    .box2{
+        background-color: #7BE0C3;
+        width: 100%; 
+        height: 20vh;
+    }
+
+    .box3{
+        background-color: #C2E791;
+        width: 100%; 
+        height: 20vh;
+    }
+
+    .box4{
+        background-color: #F5E752;
+        width: 100%; 
+        height: 20vh;
+    }
