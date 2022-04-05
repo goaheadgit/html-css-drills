@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    background-size: 50%;
+    font-family: cinzel decorative;
+    font-size: 500%;
+    color: #503d42;
+
+
+}
+
+h3{
+    text-align: center;
+    font-family: cinzel decorative;
+    margin-bottom: 70px;
+    color: #503d42;
+}
+
+
+
+body {
+    background-color: #f5fbef;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: bebas neue;
+
+}
+
+.pictures {
+ margin: 10px;
+ text-align: center;
+}
+.mySlides {
+    margin-bottom: 40%;
+}
+.topnav {
+    text-align: center;
+    font-size: 300%;
+    text-shadow: #92ad94 2px 2px 2px;
+    text-decoration:none;
+    box-shadow: 1px 1px 1px #748b75;
+
+
+}
+a {
+    text-decoration: none;
+    font-family: bebas neue;
+    color:#503d42;
+}
+button{
+    display: block;
+    width: 40%;
+    border: none;
+    background-color: #748b75;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    font-size: 300%;
+    color:#503d42;
+    text-align: center;
+}
